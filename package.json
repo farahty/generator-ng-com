@@ -43,7 +43,7 @@
       "mocha": true
     }
   },
-  "repository": "nimerfarahty/generator-ng-com",
+  "repository": "https://github.com/nimerfarahty/generator-ng-com.git",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
